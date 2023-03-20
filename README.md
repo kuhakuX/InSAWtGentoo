@@ -33,3 +33,13 @@ d
 recheck  
 su  
 sudo fdisk -l  
+
+Disk /dev/nvme0n1: 953.87 GiB, 1024209543168 bytes, 2000409264 sectors  
+Disk model: addlink M.2 PCIE G3x4 NVMe  
+Units: sectors of 1 * 512 = 512 bytes  
+Sector size (logical/physical): 512 bytes / 512 bytes  
+I/O size (minimum/optimal): 512 bytes / 512 bytes  
+Disklabel type: gpt  
+Disk identifier:X  
+
+seem OK but i need to double check from BIOS don't matter for you but for me
