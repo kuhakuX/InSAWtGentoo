@@ -1,2 +1,2 @@
-# InSAWtGentoo
-My Gen2
+su
+cfdisk
