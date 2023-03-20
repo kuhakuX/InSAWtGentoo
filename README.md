@@ -30,3 +30,6 @@ d
 4  
 d  
 
+recheck  
+su  
+sudo fdisk -l  
