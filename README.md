@@ -41,5 +41,3 @@ Sector size (logical/physical): 512 bytes / 512 bytes
 I/O size (minimum/optimal): 512 bytes / 512 bytes  
 Disklabel type: gpt  
 Disk identifier:X  
-
-seem OK but i need to double check from BIOS don't matter for you but for me
